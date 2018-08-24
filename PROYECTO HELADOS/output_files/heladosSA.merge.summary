@@ -1,0 +1,14 @@
+Partition Merge Status : Successful - Wed Aug 22 07:06:12 2018
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : heladosSA
+Top-level Entity Name : heladosSA
+Family : Cyclone IV E
+Total logic elements : 1,157 / 22,320 ( 5 % )
+    Total combinational functions : 692 / 22,320 ( 3 % )
+    Dedicated logic registers : 786 / 22,320 ( 4 % )
+Total registers : 786
+Total pins : 42 / 154 ( 27 % )
+Total virtual pins : 0
+Total memory bits : 3,840 / 608,256 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

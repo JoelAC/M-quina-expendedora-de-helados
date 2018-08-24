@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Aug 22 09:26:47 2018
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : heladosSA
+Top-level Entity Name : heladosSA
+Family : Cyclone IV E
+Device : EP4CE22F17C6
+Timing Models : Final
+Total logic elements : 2,006 / 22,320 ( 9 % )
+    Total combinational functions : 936 / 22,320 ( 4 % )
+    Dedicated logic registers : 1,676 / 22,320 ( 8 % )
+Total registers : 1676
+Total pins : 42 / 154 ( 27 % )
+Total virtual pins : 0
+Total memory bits : 13,312 / 608,256 ( 2 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
